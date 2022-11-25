@@ -83,8 +83,8 @@ help_tips: false                                    # options: true, false  | us
 # -----------BUILD SETTINGS--------------#
 #========================================#
 <<<<<<< HEAD
-# theme: 
-remote_theme: tcbutler320/Jekyll-Theme-Dumbarton
+theme: 
+#remote_theme: tcbutler320/Jekyll-Theme-Dumbarton
 =======
 theme: 
 >>>>>>> c9f3c86a9343b9a0d350f06f43a1365880f51a19

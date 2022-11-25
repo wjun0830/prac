@@ -1,8 +1,39 @@
 ---
 layout: default
 ---
+Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South Korea.
+Page is being updated.
+# News
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Publications
+<table class="table table-sm table-borderless">
+<tr>
+<th scope="row"> AAAI 2023 </th>
+<td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition </td>
+<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> ECCV 2022 </th>
+<td> Tailoring Self-Supervision for Supervised Learning </td>
+<td> <u>WonJun Moon</u>, Ji-Hwan Kim, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> ECCV 2022 </th>
+<td> Difficulty-Aware Simulator for Open Set Recognition </td>
+<td> <u>WonJun Moon</u>, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo </td>
+</tr>
+
+
+<tr>
+<th scope="row"> CVPR 2022 (<b>oral</b>) </th>
+<td> Task Discrepancy Maximization for Fine-grained Few-Shot Classification </td>
+<td> SuBeen Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
+</tr>
+</table>
+
+#Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 

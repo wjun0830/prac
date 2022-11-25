@@ -82,8 +82,12 @@ help_tips: false                                    # options: true, false  | us
 # =======================================#
 # -----------BUILD SETTINGS--------------#
 #========================================#
+<<<<<<< HEAD
 # theme: 
 remote_theme: tcbutler320/Jekyll-Theme-Dumbarton
+=======
+theme: 
+>>>>>>> c9f3c86a9343b9a0d350f06f43a1365880f51a19
 markdown: kramdown
 
 kramdown:
@@ -203,4 +207,8 @@ mkZ6xvnnyzHls4FOqcJRHgn4GPxwNo/y5Y9WDqAV6qZ6jpz8n1JZV9KxDjcq0 BI
 Mt0zmeZBXaX3/7LDS75dEYL2uCxVAqxftzIal6dF8hOEEJoRXOkgCKC1IY2 iH3J
 UOmZxPhE6x7ZQcKO
 =IkuM
+<<<<<<< HEAD
 -----END PGP PUBLIC KEY BLOCK-----"
+=======
+-----END PGP PUBLIC KEY BLOCK-----"
+>>>>>>> c9f3c86a9343b9a0d350f06f43a1365880f51a19

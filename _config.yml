@@ -83,10 +83,6 @@ help_tips: false                                    # options: true, false  | us
 # -----------BUILD SETTINGS--------------#
 #========================================#
 theme: 
-#remote_theme: tcbutler320/Jekyll-Theme-Dumbarton
-=======
-theme: 
->>>>>>> c9f3c86a9343b9a0d350f06f43a1365880f51a19
 markdown: kramdown
 
 kramdown:
@@ -191,7 +187,7 @@ MSPOY9mU2eXgiFrVwYeD2j2G4KG9jNUcQguSjzA3vEpZK9NtTukj3HzQkttGLBb8
 if7DtNxHhrkpmHqOzM55c4QbKBvGAFDwqocn0uH0N7qt8I1vC9W4KH//DxSbpZdY
 SFpuYdaXCORaAX0VEGMikdChV6k26EjHprPoIQJ7clJjlEiGaOtp IKoGgnOXMF5
 6B8Spm7JJ8sULobDDNNvRgstjmABJoLJDa0kPs9WkIJXLIUO12vPLMb05guju0oL
-jYkhkMm9o5MUN qjy/A48FgOqbz9bZ/lOvso76N  L4Hhb6MxSPtNnL5GMl7o7pk
+jYkhkMm9o5MUN qjy/A48FgOqbz9bZ/lOvso76N  L4Hhb6MxSPtNnL5GMl7o7pk
 r8qPoVOKyc0AEQEAAYkCPAQYAQgAJhYhBMhmHm6U/60WKiqjdXWiNP I ZwaBQJf
 EmsQAhsMBQkHhh AAAoJEHWiNP I ZwaMZQQAJg6NCfHpvFfr9c8/odmt/zEXUpx
 42eB2tIFaTd/MSu5QI9rXuV6l2naC9dHBStPrpj2acCyvjeFfsxJ9VJjg3ToZH5B
@@ -206,8 +202,4 @@ mkZ6xvnnyzHls4FOqcJRHgn4GPxwNo/y5Y9WDqAV6qZ6jpz8n1JZV9KxDjcq0 BI
 Mt0zmeZBXaX3/7LDS75dEYL2uCxVAqxftzIal6dF8hOEEJoRXOkgCKC1IY2 iH3J
 UOmZxPhE6x7ZQcKO
 =IkuM
-<<<<<<< HEAD
 -----END PGP PUBLIC KEY BLOCK-----"
-=======
------END PGP PUBLIC KEY BLOCK-----"
->>>>>>> c9f3c86a9343b9a0d350f06f43a1365880f51a19

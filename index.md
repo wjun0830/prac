@@ -2,17 +2,13 @@
 layout: default
 ---
 Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South Korea.
-Page is being updated.
 
 # News
 
-(2022. 11) 1 paper accepted to AAAI 2023.
-<br>
-(2022. 07) 2 papers accepted to ECCV 2022.
-<br>
-(2022. 03) 1 paper accepted to CVPR 2022.
-<br>
-(2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Funded as a good research team.
+* (2022. 11) 1 paper accepted to AAAI 2023.
+* (2022. 07) 2 papers accepted to ECCV 2022.
+* (2022. 03) 1 paper accepted to CVPR 2022.
+* (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team.
 
 # Publications
 
@@ -80,7 +76,17 @@ Page is being updated.
 
 # Experience
 
+* 2023 CVPR Reviewer
 * 2022 CVPR Reviewer
-* 2021 CVPR Reviewer
 
+# Education
 
+* Ph.D. Dept of Artificial Intelligence, Sungkyunkwan University
+
+* MS. Dept of Artificial Intelligence, Sungkyunkwan University
+<br> GPA : 4.38 / 4.5
+
+* Bs. Dept of Software, Sungkyunkwan University
+<br> GPA : 4.42 / 4.5
+
+* Language : Korean, English

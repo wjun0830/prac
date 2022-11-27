@@ -4,6 +4,16 @@ layout: default
 Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South Korea.
 Page is being updated.
 
+# News
+
+(2022. 11) 1 paper accepted to AAAI 2023.
+<br>
+(2022. 07) 2 papers accepted to ECCV 2022.
+<br>
+(2022. 03) 1 paper accepted to CVPR 2022.
+<br>
+(2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Funded as a good research team.
+
 # Publications
 
 ## International
@@ -67,3 +77,10 @@ Page is being updated.
 <td> <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 </table>
+
+# Experience
+
+* 2022 CVPR Reviewer
+* 2021 CVPR Reviewer
+
+

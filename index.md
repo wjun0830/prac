@@ -60,14 +60,14 @@ Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South K
 <table class="table table-sm table-borderless">
 
 <tr>
-<th scope="row"> KIISE 2022 "" </th>
+<th scope="row"> KIISE 2022 "정보과학회" </th>
 <td> Learning from Data Imbalance with Class Grouping Loss
 </td>
 <td> <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
-<th scope="row"> KIISE 2020 "" </th>
+<th scope="row"> KIISE 2020 "정보과학회" </th>
 <td> Mix-Contrastive Match
 </td>
 <td> <u>WonJun Moon</u>, Jae-Pil Heo </td>

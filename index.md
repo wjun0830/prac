@@ -17,7 +17,9 @@ Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South K
 <tr>
 <th scope="row"> AAAI 2023 </th>
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 
-<br> <a href="https://github.com/wjun0830/MOVE" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<br> 
+<a href="https://arxiv.org/abs/2211.13471" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://github.com/wjun0830/MOVE" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>
 <td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
@@ -26,6 +28,7 @@ Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South K
 <th scope="row"> ECCV 2022 </th>
 <td> Tailoring Self-Supervision for Supervised Learning 
 <br> 
+<a href="https://arxiv.org/abs/2207.10023" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/Localizable-Rotation" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>
@@ -35,7 +38,8 @@ Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South K
 <tr>
 <th scope="row"> ECCV 2022 </th>
 <td> Difficulty-Aware Simulator for Open Set Recognition 
-<br> 
+<br>
+<a href="https://arxiv.org/abs/2207.10024" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850360.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/Difficulty-Aware-Simulator" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>
@@ -47,6 +51,7 @@ Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South K
 <th scope="row"> CVPR 2022 (<b>oral</b>) </th>
 <td> Task Discrepancy Maximization for Fine-grained Few-Shot Classification 
 <br> 
+<a href="https://arxiv.org/abs/2207.01376" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/leesb7426/CVPR2022-Task-Discrepancy-Maximization-for-Fine-grained-Few-Shot-Classification" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>

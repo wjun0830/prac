@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-Hello. I'm WonJun Moon, a Ph.D. student in Visual Computing laboratory at Sungkyunkwan university, South Korea.
+Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
+I am a member of Visual Computing LABoratory advised by Prof. Jae-Pil Heo.
 
 # News
 

@@ -6,6 +6,7 @@ I am a member of Visual Computing LABoratory advised by Prof. Jae-Pil Heo.
 
 # News
 
+* (2023. 03) 2 paper accepted to CVPR 2023.
 * (2022. 11) 1 paper accepted to AAAI 2023.
 * (2022. 07) 2 papers accepted to ECCV 2022.
 * (2022. 03) 1 paper accepted to CVPR 2022.
@@ -15,6 +16,28 @@ I am a member of Visual Computing LABoratory advised by Prof. Jae-Pil Heo.
 
 ## International
 <table class="table table-sm table-borderless">
+<tr>
+<th scope="row"> CVPR 2023 </th>
+<td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
+<br> 
+<a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="" target="_blank" rel="noopener noreferrer"> [Code] </a>
+</td>
+<td> <u>WonJun Moon<sub>&#42;</sub></u>, Sangeek Hyun<sub>&#42;</sub>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> (&#42; &#58; equal contribution)
+</tr>
+
+
+<tr>
+<th scope="row"> CVPR 2023 </th>
+<td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
+<br> 
+<a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="" target="_blank" rel="noopener noreferrer"> [Code] </a>
+</td>
+<td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
+</tr>
+
+
 <tr>
 <th scope="row"> AAAI 2023 </th>
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 

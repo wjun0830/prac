@@ -13,17 +13,17 @@ I am a member of Visual Computing LABoratory advised by Prof. Jae-Pil Heo.
 * (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team.
 
 # Publications
-
+(&#42; &#58; equal contribution)
 ## International
 <table class="table table-sm table-borderless">
 <tr>
 <th scope="row"> CVPR 2023 </th>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
-<a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
-<a href="" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Code] </a> -->
 </td>
-<td> <u>WonJun Moon<sub>&#42;</sub></u>, Sangeek Hyun<sub>&#42;</sub>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> (&#42; &#58; equal contribution)
+<td> <u>WonJun Moon<sup>&#42;</sup></u>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> 
 </tr>
 
 
@@ -31,8 +31,8 @@ I am a member of Visual Computing LABoratory advised by Prof. Jae-Pil Heo.
 <th scope="row"> CVPR 2023 </th>
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
-<a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
-<a href="" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Code] </a> -->
 </td>
 <td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
 </tr>

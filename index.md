@@ -39,7 +39,8 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 
 
 <tr>
-<th scope="row"> AAAI 2023 </th>
+<th scope="row"> AAAI 2023 (<b>oral</b>)</th>
+
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 
 <br> 
 <a href="https://arxiv.org/abs/2211.13471" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>

@@ -6,7 +6,7 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 
 # News
 
-* (2023. 03) 2 paper accepted to CVPR 2023.
+* (2023. 03) 2 papers accepted to CVPR 2023.
 * (2022. 11) 1 paper accepted to AAAI 2023.
 * (2022. 07) 2 papers accepted to ECCV 2022.
 * (2022. 03) 1 paper accepted to CVPR 2022.

@@ -20,8 +20,8 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <th scope="row"> CVPR 2023 </th>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a> -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Code] </a> -->
+<a href="https://arxiv.org/abs/2303.13874" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://github.com/wjun0830/QD-DETR" target="_blank" rel="noopener noreferrer"> [Code] </a> 
 </td>
 <td> <u>WonJun Moon<sup>&#42;</sup></u>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> 
 </tr>
@@ -31,8 +31,8 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <th scope="row"> CVPR 2023 </th>
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Arxiv] </a> -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> [Code] </a> -->
+<a href="https://arxiv.org/abs/2303.15014" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://github.com/hynnsk/HP" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>
 <td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
 </tr>

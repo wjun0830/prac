@@ -3,9 +3,11 @@ layout: default
 ---
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
 I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer">[Visual Computing LABoratory]</a> advised by Prof. Jae-Pil Heo.
+My research interests lie in computer vision and deep learning. Recently, I am mostly interested in Long-Tailed Recognition, Representation Learning, and Multi-modal Learning. My other interests lie in Representation Learning, Open Set Recognition, Out-of-Distribution Detection, Semi-Supervised Learning , Data Augmentation, Few-shot Learning, Image Segmentation, Multi-modal Representation Learning, Video Highlight Detection and Text-to-Video Retrieval.
 
 # News
 
+* (2023. 05) Selected as an 18th scholarship student of the Gwanjeong Educational Foundation.
 * (2023. 03) 2 papers accepted to CVPR 2023.
 * (2022. 11) 1 paper accepted to AAAI 2023.
 * (2022. 07) 2 papers accepted to ECCV 2022.
@@ -21,7 +23,9 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
 <a href="https://arxiv.org/abs/2303.13874" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Moon_Query-Dependent_Video_Representation_for_Moment_Retrieval_and_Highlight_Detection_CVPR_2023_paper.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/QD-DETR" target="_blank" rel="noopener noreferrer"> [Code] </a> 
+<a href="https://www.youtube.com/watch?v=df-gtJcZEw8&t=301s" target="_blank" rel="noopener noreferrer"> [Video] </a> 
 </td>
 <td> <u>WonJun Moon<sup>&#42;</sup></u>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> 
 </tr>
@@ -32,6 +36,7 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2303.15014" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Seong_Leveraging_Hidden_Positives_for_Unsupervised_Semantic_Segmentation_CVPR_2023_paper.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/hynnsk/HP" target="_blank" rel="noopener noreferrer"> [Code] </a>
 </td>
 <td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
@@ -45,6 +50,7 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <br> 
 <a href="https://arxiv.org/abs/2211.13471" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://github.com/wjun0830/MOVE" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<a href="https://www.youtube.com/watch?v=SbXsj_pc_-c&t=301s" target="_blank" rel="noopener noreferrer"> [Video] </a> 
 </td>
 <td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
@@ -56,6 +62,7 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <a href="https://arxiv.org/abs/2207.10023" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/Localizable-Rotation" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<a href="https://www.youtube.com/watch?v=H4fX0KQfp2s" target="_blank" rel="noopener noreferrer"> [Video] </a> 
 </td>
 <td> <u>WonJun Moon</u>, Ji-Hwan Kim, Jae-Pil Heo </td>
 </tr>
@@ -67,6 +74,7 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 <a href="https://arxiv.org/abs/2207.10024" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
 <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850360.pdf" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/Difficulty-Aware-Simulator" target="_blank" rel="noopener noreferrer"> [Code] </a>
+<a href="https://www.youtube.com/watch?v=0_q9wxDIYbE&t=197s" target="_blank" rel="noopener noreferrer"> [Video] </a> 
 </td>
 <td> <u>WonJun Moon</u>, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo </td>
 </tr>
@@ -104,10 +112,11 @@ I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser
 </tr>
 </table>
 
-# Experience
+# Experience & Achievements
 
-* 2023 CVPR Reviewer
-* 2022 CVPR Reviewer
+* 18th Scholarship student of the Kwanjeong Educational Foundation
+* 2023 ICCV Reviewer
+* 2023, 2022 CVPR Reviewer
 
 # Education
 

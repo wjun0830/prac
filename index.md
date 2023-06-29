@@ -49,6 +49,7 @@ My research interests lie in computer vision and deep learning. Recently, I am m
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 
 <br> 
 <a href="https://arxiv.org/abs/2211.13471" target="_blank" rel="noopener noreferrer"> [Arxiv] </a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25284/25056" target="_blank" rel="noopener noreferrer"> [Paper] </a>
 <a href="https://github.com/wjun0830/MOVE" target="_blank" rel="noopener noreferrer"> [Code] </a>
 <a href="https://www.youtube.com/watch?v=SbXsj_pc_-c&t=301s" target="_blank" rel="noopener noreferrer"> [Video] </a> 
 </td>
